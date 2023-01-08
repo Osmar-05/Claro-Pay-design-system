@@ -1,6 +1,8 @@
 {
-  "background": {
-    "value": "{red.500}",
-    "type": "color"
+  "cta": {
+    "default": {
+      "value": "{red.500}",
+      "type": "color"
+    }
   }
 }

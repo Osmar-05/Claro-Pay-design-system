@@ -1,10 +1,16 @@
 {
   "button": {
     "background": {
-      "active": {
-        "value": "{red.500}",
+      "default": {
+        "value": "{cta.default}",
         "type": "color"
       }
+    },
+    "primary": {
+      "value": {
+        "fill": "{button.background.default}"
+      },
+      "type": "composition"
     }
   }
 }
