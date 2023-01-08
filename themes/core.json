@@ -10,5 +10,23 @@
       "type": "color",
       "description": "Color default"
     }
+  },
+  "blueDark": {
+    "25": {
+      "value": "#F6F7F8",
+      "type": "color"
+    },
+    "100": {
+      "value": "#CAD0D3",
+      "type": "color"
+    },
+    "500": {
+      "value": "#50626C",
+      "type": "color"
+    },
+    "900": {
+      "value": "#181D20",
+      "type": "color"
+    }
   }
 }
