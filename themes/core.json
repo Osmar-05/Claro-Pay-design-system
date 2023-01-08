@@ -28,5 +28,27 @@
       "value": "#181D20",
       "type": "color"
     }
+  },
+  "gray": {
+    "25": {
+      "value": "#F5F5F5",
+      "type": "color"
+    },
+    "50": {
+      "value": "#D6D6D6",
+      "type": "color"
+    },
+    "250": {
+      "value": "#848484",
+      "type": "color"
+    },
+    "500": {
+      "value": "#323232",
+      "type": "color"
+    },
+    "900": {
+      "value": "#0F0F0F",
+      "type": "color"
+    }
   }
 }
