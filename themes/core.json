@@ -1,8 +1,14 @@
 {
-  "red": {
-    "500": {
-      "value": "#f00",
-      "type": "color"
+  "default": {
+    "white": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Color default"
+    },
+    "black": {
+      "value": "#000000",
+      "type": "color",
+      "description": "Color default"
     }
   }
 }

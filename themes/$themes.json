@@ -8,10 +8,6 @@
       "semantic/granular": "enabled",
       "comp/button": "enabled"
     },
-    "$figmaStyleReferences": {
-      "button.background.default": "S:10c1a7836a0b9e7616160eeab4d3898850c786c8,",
-      "cta.default": "S:248c0cd0e65c96e64de8e3fd224c2c044d8b205a,",
-      "red.500": "S:74a989f4690dd8d9f7bee0ce1392461e8664c943,"
-    }
+    "$figmaStyleReferences": {}
   }
 ]
