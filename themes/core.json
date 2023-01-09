@@ -301,5 +301,15 @@
     "value": "Nunito",
     "type": "fontFamilies",
     "description": "Se utiliza en la web de Claro Pay; también se utiliza en títulos y cantidades dentro de la app de Claro Pay. Adicional se aplica en insumos gráficos"
+  },
+  "fontWeight": {
+    "bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    }
   }
 }
