@@ -286,7 +286,7 @@
         "y": "0",
         "blur": "30",
         "spread": "0",
-        "color": "{blue.25}",
+        "color": "rgba(1,32,36,0.15)",
         "type": "dropShadow"
       },
       "type": "boxShadow"
