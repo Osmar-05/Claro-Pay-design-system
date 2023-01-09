@@ -278,5 +278,18 @@
       "value": "16",
       "type": "borderRadius"
     }
+  },
+  "shadow": {
+    "default": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "30",
+        "spread": "0",
+        "color": "{blue.25}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
   }
 }
