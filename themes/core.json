@@ -291,5 +291,15 @@
       },
       "type": "boxShadow"
     }
+  },
+  "font-roboto": {
+    "value": "Roboto",
+    "type": "fontFamilies",
+    "description": "Se utiliza en la app de Claro Pay"
+  },
+  "font-nunito": {
+    "value": "Nunito",
+    "type": "fontFamilies",
+    "description": "Se utiliza en la web de Claro Pay; también se utiliza en títulos y cantidades dentro de la app de Claro Pay. Adicional se aplica en insumos gráficos"
   }
 }
