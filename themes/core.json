@@ -112,5 +112,23 @@
       "value": "#2F3E1B",
       "type": "color"
     }
+  },
+  "yellow": {
+    "25": {
+      "value": "#FFFCF6",
+      "type": "color"
+    },
+    "100": {
+      "value": "#FCEDC7",
+      "type": "color"
+    },
+    "500": {
+      "value": "#F6C243",
+      "type": "color"
+    },
+    "900": {
+      "value": "#4A3A14",
+      "type": "color"
+    }
   }
 }
