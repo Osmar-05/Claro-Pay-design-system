@@ -50,5 +50,27 @@
       "value": "#0F0F0F",
       "type": "color"
     }
+  },
+  "blue": {
+    "25": {
+      "value": "#F5FBFD",
+      "type": "color"
+    },
+    "100": {
+      "value": "#C3E7F1",
+      "type": "color"
+    },
+    "500": {
+      "value": "#38B0D1",
+      "type": "color"
+    },
+    "600": {
+      "value": "#329EBC",
+      "type": "color"
+    },
+    "900": {
+      "value": "#11353F",
+      "type": "color"
+    }
   }
 }
