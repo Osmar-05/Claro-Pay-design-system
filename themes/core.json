@@ -277,6 +277,10 @@
     "lg": {
       "value": "16px",
       "type": "borderRadius"
+    },
+    "xl": {
+      "value": "40px",
+      "type": "borderRadius"
     }
   },
   "shadow": {
