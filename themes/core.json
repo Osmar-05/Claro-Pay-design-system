@@ -151,43 +151,43 @@
   },
   "sizing": {
     "1": {
-      "value": "8",
+      "value": "8px",
       "type": "sizing"
     },
     "2": {
-      "value": "12",
+      "value": "12px",
       "type": "sizing"
     },
     "3": {
-      "value": "16",
+      "value": "16px",
       "type": "sizing"
     },
     "4": {
-      "value": "20",
+      "value": "20px",
       "type": "sizing"
     },
     "5": {
-      "value": "24",
+      "value": "24px",
       "type": "sizing"
     },
     "6": {
-      "value": "32",
+      "value": "32px",
       "type": "sizing"
     },
     "7": {
-      "value": "40",
+      "value": "40px",
       "type": "sizing"
     },
     "8": {
-      "value": "48",
+      "value": "48px",
       "type": "sizing"
     },
     "9": {
-      "value": "56",
+      "value": "56px",
       "type": "sizing"
     },
     "10": {
-      "value": "64",
+      "value": "64px",
       "type": "sizing"
     }
   },
@@ -267,15 +267,15 @@
   },
   "radius": {
     "sm": {
-      "value": "4",
+      "value": "4px",
       "type": "borderRadius"
     },
     "md": {
-      "value": "8",
+      "value": "8px",
       "type": "borderRadius"
     },
     "lg": {
-      "value": "16",
+      "value": "16px",
       "type": "borderRadius"
     }
   },
@@ -311,5 +311,71 @@
       "value": "Regular",
       "type": "fontWeights"
     }
+  },
+  "fontSize": {
+    "1": {
+      "value": "10px",
+      "type": "fontSizes"
+    },
+    "2": {
+      "value": "12px",
+      "type": "fontSizes"
+    },
+    "3": {
+      "value": "14px",
+      "type": "fontSizes"
+    },
+    "4": {
+      "value": "16px",
+      "type": "fontSizes"
+    },
+    "5": {
+      "value": "18px",
+      "type": "fontSizes"
+    },
+    "6": {
+      "value": "20px",
+      "type": "fontSizes"
+    },
+    "7": {
+      "value": "24px",
+      "type": "fontSizes"
+    },
+    "8": {
+      "value": "28px",
+      "type": "fontSizes"
+    }
+  },
+  "font-line-height-1": {
+    "value": "18",
+    "type": "lineHeights"
+  },
+  "font-line-height-2": {
+    "value": "20",
+    "type": "lineHeights"
+  },
+  "font-line-height-3": {
+    "value": "22",
+    "type": "lineHeights"
+  },
+  "font-line-height-4": {
+    "value": "24",
+    "type": "lineHeights"
+  },
+  "font-line-height-5": {
+    "value": "26",
+    "type": "lineHeights"
+  },
+  "font-line-height-6": {
+    "value": "28",
+    "type": "lineHeights"
+  },
+  "font-line-height-7": {
+    "value": "32",
+    "type": "lineHeights"
+  },
+  "font-line-height-8": {
+    "value": "36",
+    "type": "lineHeights"
   }
 }
