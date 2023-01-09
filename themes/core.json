@@ -264,5 +264,19 @@
       "value": "100",
       "type": "spacing"
     }
+  },
+  "radius": {
+    "sm": {
+      "value": "4",
+      "type": "borderRadius"
+    },
+    "md": {
+      "value": "8",
+      "type": "borderRadius"
+    },
+    "lg": {
+      "value": "16",
+      "type": "borderRadius"
+    }
   }
 }
