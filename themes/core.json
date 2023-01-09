@@ -72,5 +72,23 @@
       "value": "#11353F",
       "type": "color"
     }
+  },
+  "orange": {
+    "25": {
+      "value": "#FEF8F2",
+      "type": "color"
+    },
+    "100": {
+      "value": "#F8D2B4",
+      "type": "color"
+    },
+    "500": {
+      "value": "#E96A06",
+      "type": "color"
+    },
+    "900": {
+      "value": "#462002",
+      "type": "color"
+    }
   }
 }
