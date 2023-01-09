@@ -130,5 +130,23 @@
       "value": "#4A3A14",
       "type": "color"
     }
+  },
+  "red": {
+    "25": {
+      "value": "#FBF4F5",
+      "type": "color"
+    },
+    "100": {
+      "value": "#E7BEC1",
+      "type": "color"
+    },
+    "500": {
+      "value": "#AF272F",
+      "type": "color"
+    },
+    "900": {
+      "value": "#350C0E",
+      "type": "color"
+    }
   }
 }
