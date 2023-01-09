@@ -148,5 +148,45 @@
       "value": "#350C0E",
       "type": "color"
     }
+  },
+  "sizing-1": {
+    "value": "8",
+    "type": "sizing"
+  },
+  "sizing-2": {
+    "value": "12",
+    "type": "sizing"
+  },
+  "sizing-3": {
+    "value": "16",
+    "type": "sizing"
+  },
+  "sizing-4": {
+    "value": "20",
+    "type": "sizing"
+  },
+  "sizing-5": {
+    "value": "24",
+    "type": "sizing"
+  },
+  "sizing-6": {
+    "value": "32",
+    "type": "sizing"
+  },
+  "sizing-7": {
+    "value": "40",
+    "type": "sizing"
+  },
+  "sizing-8": {
+    "value": "48",
+    "type": "sizing"
+  },
+  "sizing-9": {
+    "value": "56",
+    "type": "sizing"
+  },
+  "sizing-10": {
+    "value": "64",
+    "type": "sizing"
   }
 }
