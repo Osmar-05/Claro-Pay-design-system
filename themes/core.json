@@ -13,6 +13,10 @@
     "red": {
       "value": "#DA291C",
       "type": "color"
+    },
+    "prueba": {
+      "value": "#f50243",
+      "type": "color"
     }
   },
   "blueDark": {

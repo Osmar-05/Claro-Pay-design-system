@@ -69,16 +69,12 @@
       "value": "{gray.900}",
       "type": "color"
     },
-    "emphanised": {
-      "value": "{gray.250}",
-      "type": "color"
-    },
-    "muted": {
+    "emphasised": {
       "value": "{gray.500}",
       "type": "color"
     },
-    "subtle": {
-      "value": "{gray.25}",
+    "muted": {
+      "value": "{gray.250}",
       "type": "color"
     },
     "disabled": {

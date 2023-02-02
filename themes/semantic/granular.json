@@ -2,7 +2,7 @@
   "actions": {
     "background": {
       "hover": {
-        "value": "{cta.emphanised}",
+        "value": "{cta.muted}",
         "type": "color"
       },
       "active": {
@@ -25,6 +25,12 @@
     "actions": {
       "value": "{radius.xl}",
       "type": "borderRadius"
+    }
+  },
+  "sizing": {
+    "large": {
+      "value": "{sizing.8}",
+      "type": "sizing"
     }
   }
 }

@@ -12,6 +12,45 @@
       "textInverted": {
         "value": "{actions.text.baseInverted}",
         "type": "color"
+      },
+      "large": {
+        "value": "{sizing.8}",
+        "type": "sizing"
+      }
+    }
+  },
+  "composition": {
+    "button": {
+      "primary": {
+        "large": {
+          "value": {
+            "paddingTop": "{spacing.4}",
+            "paddingLeft": "{spacing.8}",
+            "paddingBottom": "{spacing.4}",
+            "paddingRight": "{spacing.8}"
+          },
+          "type": "composition"
+        }
+      }
+    }
+  },
+  "typography": {
+    "button": {
+      "large": {
+        "value": "{link.large}",
+        "type": "typography"
+      }
+    }
+  },
+  "sizing": {
+    "button": {
+      "primary": {
+        "width": {
+          "text": {
+            "value": "120px",
+            "type": "sizing"
+          }
+        }
       }
     }
   }
