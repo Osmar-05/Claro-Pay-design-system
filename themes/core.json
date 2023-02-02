@@ -9,6 +9,10 @@
       "value": "#000000",
       "type": "color",
       "description": "Color default"
+    },
+    "red": {
+      "value": "#DA291C",
+      "type": "color"
     }
   },
   "blueDark": {

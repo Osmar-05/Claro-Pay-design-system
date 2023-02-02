@@ -5,7 +5,6 @@
     "selectedTokenSets": {
       "core": "enabled",
       "semantic/simplified": "enabled",
-      "semantic/granular": "enabled",
       "comp/button": "enabled"
     },
     "$figmaStyleReferences": {}

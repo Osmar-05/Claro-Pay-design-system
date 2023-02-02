@@ -2,7 +2,7 @@
   "tokenSetOrder": [
     "core",
     "semantic/simplified",
-    "semantic/granular",
-    "comp/button"
+    "comp/button",
+    "semantic/granular"
   ]
 }
