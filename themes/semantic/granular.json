@@ -25,6 +25,10 @@
     "actions": {
       "value": "{radius.xl}",
       "type": "borderRadius"
+    },
+    "rectangular": {
+      "value": "{radius.sm}",
+      "type": "borderRadius"
     }
   },
   "sizing": {

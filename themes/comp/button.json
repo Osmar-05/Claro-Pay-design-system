@@ -17,6 +17,10 @@
         "value": "{sizing.8}",
         "type": "sizing"
       }
+    },
+    "rectangular": {
+      "value": "{border-radius.rectangular}",
+      "type": "borderRadius"
     }
   },
   "composition": {
