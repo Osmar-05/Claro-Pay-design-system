@@ -50,7 +50,7 @@
       "type": "color"
     },
     "accent": {
-      "value": "{default.red}",
+      "value": "{default.gray}",
       "type": "color"
     }
   },
@@ -84,7 +84,7 @@
   },
   "primary": {
     "default": {
-      "value": "{default.red}",
+      "value": "{default.gray}",
       "type": "color"
     }
   },

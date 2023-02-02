@@ -10,12 +10,8 @@
       "type": "color",
       "description": "Color default"
     },
-    "red": {
-      "value": "#DA291C",
-      "type": "color"
-    },
-    "prueba": {
-      "value": "#000000",
+    "gray": {
+      "value": "#eeeeee",
       "type": "color"
     }
   },
