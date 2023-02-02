@@ -1,1 +1,30 @@
-{}
+{
+  "actions": {
+    "background": {
+      "hover": {
+        "value": "{cta.emphanised}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{cta.default}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{cta.disabled}",
+        "type": "color"
+      }
+    },
+    "text": {
+      "baseInverted": {
+        "value": "{fg.on-accent}",
+        "type": "color"
+      }
+    }
+  },
+  "border-radius": {
+    "actions": {
+      "value": "{radius.xl}",
+      "type": "borderRadius"
+    }
+  }
+}
