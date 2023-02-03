@@ -1,1 +1,22 @@
-{}
+{
+  "button": {
+    "primary": {
+      "text": {
+        "default": {
+          "value": "{text.baseInverted}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{text.baseInverted}",
+          "type": "color"
+        }
+      },
+      "background": {
+        "primary": {
+          "value": "{background.base}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

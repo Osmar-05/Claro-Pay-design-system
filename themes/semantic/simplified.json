@@ -1,1 +1,68 @@
-{}
+{
+  "text": {
+    "base": {
+      "value": "{gray.900}",
+      "type": "color",
+      "description": "Se utiliza en títulos y textos descriptivos "
+    },
+    "baseInverted": {
+      "value": "{default.white}",
+      "type": "color",
+      "description": "Se utilizan en textos que tengan un fondo oscuro\n"
+    },
+    "disabled": {
+      "value": "{gray.250}",
+      "type": "color"
+    }
+  },
+  "background": {
+    "base": {
+      "value": "{gray.900}",
+      "type": "color"
+    },
+    "baseInverted": {
+      "value": "{default.white}",
+      "type": "color"
+    },
+    "hover": {
+      "value": "{gray.500}",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "{gray.50}",
+      "type": "color"
+    }
+  },
+  "borde": {
+    "primary": {
+      "value": "{gray.900}",
+      "type": "color"
+    },
+    "hover": {
+      "value": "{gray.500}",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "{gray.50}",
+      "type": "color"
+    }
+  },
+  "icon": {
+    "primary": {
+      "value": "{gray.900}",
+      "type": "color"
+    },
+    "hover": {
+      "value": "{gray.500}",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "{gray.250}",
+      "type": "color"
+    },
+    "primaryInverted": {
+      "value": "{default.white}",
+      "type": "color"
+    }
+  }
+}

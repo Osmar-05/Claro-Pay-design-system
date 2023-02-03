@@ -65,7 +65,24 @@
       "link.medium": "S:c3f09fa42f81f082e0f107b3429e870e5cf44db4,",
       "link.large": "S:c304460b0c6ec0b882c73c399954c04ccd8f7fa1,",
       "shadow.default": "S:d982f3b10a8d66c3b7edec0ca9e8b5ac263b53f3,",
-      "default.gray": "S:d4a4932bb3f711122b245768a7b95ce08a00a19d,"
+      "default.gray": "S:d4a4932bb3f711122b245768a7b95ce08a00a19d,",
+      "text.default": "S:db7848bd8a88174348ee41f60135c5767d8384d9,",
+      "text.hover": "S:02ce159a3bb42ea8fc1ef39e18252b3f451aced9,",
+      "background.primary": "S:32074ce869ebb878d42a14e2be12b36f8793fde2,",
+      "text.base": "S:0cc94d8d22547746e7ec9f24f710974bd983dfdf,",
+      "text.baseInverted": "S:2cdfad875492379011ebb0ac757124e9229470b6,",
+      "background.base": "S:dcc0a89c066643f5b3a2630820270f6ca4014f43,",
+      "background.baseInverted": "S:5f1d283a6f991a86a35de6f7cb64cc9ac9a3c706,",
+      "background.hover": "S:7982da5cc199ab81565d0921c93296641c2ce991,",
+      "borde.primary": "S:e2ec25aa517e2d9fbb82ddd2fe96d073144d57ca,",
+      "background.disabled": "S:ebb050be6c588ff29c1429ec15f762f5b188785e,",
+      "text.disabled": "S:f456b4d52f6364847c81846806adc31e6a0b1e92,",
+      "borde.hover": "S:3ed81eb355ed0287caa48795bba94594680ca112,",
+      "borde.disabled": "S:237ef858a80e4a22abd7d7a1b77b4a4316451917,",
+      "icon.primary": "S:c3d604f57c7cc5b380c4883265bca93e37ca3a42,",
+      "icon.hover": "S:0a46fda7dda46667d8da1a8fb49e1738eb13d731,",
+      "icon.disabled": "S:78b2bfb839001abdb77756b147db04a0452085df,",
+      "icon.primaryInverted": "S:35c7f8b5bda80c32574f321b2deaa26fac3d22a1,"
     }
   }
 ]
