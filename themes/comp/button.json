@@ -15,7 +15,7 @@
           "type": "color"
         },
         "background-active": {
-          "value": "{brand.yellow.500}",
+          "value": "{colors.background.primary}",
           "type": "color"
         },
         "background-hover": {
