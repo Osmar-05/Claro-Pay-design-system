@@ -131,8 +131,13 @@
       "brand.red.500": "S:219e28cf0b11095de62bdb079065cbc80aa31099,",
       "brand.red.900": "S:31865822310a77e1401d3f153a8df231fe3b0d0d,",
       "brand.authenticRed.500": "S:1a9a8223c667010335cbe1abd07a60f62eafaf7f,",
-      "colors.button.primary.text-active": "S:e80b92c75c1e74d1960fc65dc0db517fc2c97515,",
-      "colors.text.base-Inverted": "S:01772434ea061967fdd2e92870f1f1b6b457d15e,"
+      "colors.button.primary.text-active": "S:5999e1faa0d8b9a7137e075c4b8f18b266c37c26,",
+      "colors.text.base-Inverted": "S:84b99d0de160031ef3a872ea87354b5abaaf6825,",
+      "colors.button.primary.text-hover": "S:68019cb6356fcc6074126d29809cc26e3b175350,",
+      "colors.button.primary.text-disabled": "S:569b7f26a5fe62c688e90108db02d946a63864f7,",
+      "colors.button.primary.background-active": "S:e4a094abf2c3fd35377be2b50512d4899c2d1c1b,",
+      "colors.button.primary.background-hover": "S:4c0461abe8ef4aa62c3f6367701c0da88c114c56,",
+      "colors.button.primary.background-disabled": "S:6fc2cab5a08516f76336f1e8dcf0692c446a7f80,"
     }
   }
 ]
