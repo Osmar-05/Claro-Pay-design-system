@@ -1,1 +1,32 @@
-{}
+{
+  "colors": {
+    "button": {
+      "primary": {
+        "text-active": {
+          "value": "{colors.text.primary}",
+          "type": "color"
+        },
+        "text-hover": {
+          "value": "{colors.text.primaryHover}",
+          "type": "color"
+        },
+        "text-disabled": {
+          "value": "{colors.text.disabled}",
+          "type": "color"
+        },
+        "background-active": {
+          "value": "{colors.background.primary}",
+          "type": "color"
+        },
+        "background-hover": {
+          "value": "{colors.background.primary-hover}",
+          "type": "color"
+        },
+        "background-disabled": {
+          "value": "{colors.background.disabled}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
