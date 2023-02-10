@@ -26,6 +26,36 @@
           "value": "{colors.background.disabled}",
           "type": "color"
         }
+      },
+      "secondary": {
+        "text-active": {
+          "value": "{colors.text.secondary}",
+          "type": "color"
+        },
+        "text-hover": {
+          "value": "{colors.text.secondary-hover}",
+          "type": "color"
+        },
+        "text-disabled": {
+          "value": "{colors.text.disabled}",
+          "type": "color"
+        },
+        "background-default": {
+          "value": "{colors.background.secondary}",
+          "type": "color"
+        },
+        "background-hover": {
+          "value": "{colors.background.secondary-hover}",
+          "type": "color"
+        },
+        "border-active": {
+          "value": "{colors.border.base}",
+          "type": "color"
+        },
+        "border-disabled": {
+          "value": "{colors.border.disabled}",
+          "type": "color"
+        }
       }
     }
   },

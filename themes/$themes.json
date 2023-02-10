@@ -93,8 +93,6 @@
       "colors.background.secondary": "S:297206f12543f37eb2fbe5946d1fb9c21c9e7228,",
       "colors.background.secondary-hover": "S:c150d0aa3346239e66d1a1578ad3858b31d38b46,",
       "colors.background.disabled": "S:f1f85150d074989a525d7b2e520c873923e42502,",
-      "colors.border.primary": "S:7c74897d8d2f66031e943d227425829b3af9b1b2,",
-      "colors.border.secondary": "S:9a3a3b7e9373e41d8ca9dc98132476f3a8b095a1,",
       "colors.border.disabled": "S:ecbe4f857b48d1afb8582be985dba9575b4014de,",
       "brand.default.white": "S:db7d5cb7d9fb3db54fef88ccaa692efbcc581ad9,",
       "brand.default.black": "S:ede816c8bad32d8d9183a0641c358dd70f8bf032,",
@@ -143,7 +141,9 @@
       "typography.action.large": "S:282ed1e221d267cdc3d8fdb14589d3e7470bec02,",
       "typography.button.small": "S:dcfa99b6dd6e6d431894d0ec8551cb9cfc447537,",
       "typography.button.medium": "S:3c02ca0dff11c56b38b5f5661e6f0ffbe6153596,",
-      "typography.button.large": "S:f674c4772c017a5baa0cbae76b530bc527032efe,"
+      "typography.button.large": "S:f674c4772c017a5baa0cbae76b530bc527032efe,",
+      "colors.border.base": "S:7c74897d8d2f66031e943d227425829b3af9b1b2,",
+      "colors.border.primary": "S:9a3a3b7e9373e41d8ca9dc98132476f3a8b095a1,"
     }
   }
 ]
