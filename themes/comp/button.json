@@ -28,5 +28,24 @@
         }
       }
     }
+  },
+  "typography": {
+    "button": {
+      "small": {
+        "value": "{typography.action.small}",
+        "type": "typography",
+        "description": "Utilizarlo en un botón con poca relevancia"
+      },
+      "medium": {
+        "value": "{typography.action.medium}",
+        "type": "typography",
+        "description": "Utilizarlo en un botón con relevancia media"
+      },
+      "large": {
+        "value": "{typography.action.large}",
+        "type": "typography",
+        "description": "Utilizarlo en un botón con alta relevancia"
+      }
+    }
   }
 }

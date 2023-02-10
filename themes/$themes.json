@@ -140,7 +140,10 @@
       "colors.text.primary-hover": "S:59e45af0ad06cfda820c6eb4349c54c6479c9b69,",
       "typography.action.small": "S:896e3e2c40f750dd23961d12a30550f2d993a7db,",
       "typography.action.medium": "S:63fa0fce5ec671be0782193f59c7673f398c642a,",
-      "typography.action.large": "S:282ed1e221d267cdc3d8fdb14589d3e7470bec02,"
+      "typography.action.large": "S:282ed1e221d267cdc3d8fdb14589d3e7470bec02,",
+      "typography.button.small": "S:dcfa99b6dd6e6d431894d0ec8551cb9cfc447537,",
+      "typography.button.medium": "S:3c02ca0dff11c56b38b5f5661e6f0ffbe6153596,",
+      "typography.button.large": "S:f674c4772c017a5baa0cbae76b530bc527032efe,"
     }
   }
 ]
