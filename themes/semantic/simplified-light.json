@@ -13,7 +13,7 @@
         "value": "{brand.default.white}",
         "type": "color"
       },
-      "primaryHover": {
+      "primary-hover": {
         "value": "{brand.default.white}",
         "type": "color"
       },

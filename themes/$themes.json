@@ -85,7 +85,6 @@
       "icon.primaryInverted": "S:35c7f8b5bda80c32574f321b2deaa26fac3d22a1,",
       "colors.text.base": "S:54eedb9643b61d353dea3f14efe419e7de9519ab,",
       "colors.text.primary": "S:6634598affd22050c50f0ece46dbe056a1e4c505,",
-      "colors.text.primaryHover": "S:682cf9ec6e54aa4d738350301388f484ca571c32,",
       "colors.text.secondary": "S:16204643f1d3072f777d32e9b550892248c57062,",
       "colors.text.secondary-hover": "S:5af7156408258dd88b00d9dcd1b3861dcb1ea764,",
       "colors.text.disabled": "S:f5a0eb98b05651187c89305fe15eabac32a59446,",
@@ -137,7 +136,8 @@
       "colors.button.primary.text-disabled": "S:569b7f26a5fe62c688e90108db02d946a63864f7,",
       "colors.button.primary.background-active": "S:e4a094abf2c3fd35377be2b50512d4899c2d1c1b,",
       "colors.button.primary.background-hover": "S:4c0461abe8ef4aa62c3f6367701c0da88c114c56,",
-      "colors.button.primary.background-disabled": "S:6fc2cab5a08516f76336f1e8dcf0692c446a7f80,"
+      "colors.button.primary.background-disabled": "S:6fc2cab5a08516f76336f1e8dcf0692c446a7f80,",
+      "colors.text.primary-hover": "S:682cf9ec6e54aa4d738350301388f484ca571c32,"
     }
   }
 ]
