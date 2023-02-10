@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
     "core",
-    "semantic/simplified",
+    "semantic/simplified-light",
     "comp/button"
   ]
 }

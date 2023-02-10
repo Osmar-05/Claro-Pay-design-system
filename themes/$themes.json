@@ -4,8 +4,8 @@
     "name": "Claro Pay",
     "selectedTokenSets": {
       "core": "enabled",
-      "semantic/simplified": "enabled",
-      "comp/button": "enabled"
+      "comp/button": "enabled",
+      "semantic/simplified-light": "enabled"
     },
     "$figmaStyleReferences": {
       "actions.background.hover": "S:567803f39c7525ce7faf99f2f33830aa46cd764f,",
