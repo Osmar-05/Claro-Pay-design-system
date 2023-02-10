@@ -66,5 +66,19 @@
         "type": "color"
       }
     }
+  },
+  "typography": {
+    "action": {
+      "small": {
+        "value": {
+          "fontFamily": "{font-family.font-roboto}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{font-line.height-3}",
+          "fontSize": "{font-size.3}"
+        },
+        "type": "typography",
+        "description": "Acciones con menor prioridad"
+      }
+    }
   }
 }

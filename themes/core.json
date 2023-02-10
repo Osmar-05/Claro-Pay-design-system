@@ -304,17 +304,19 @@
       "type": "boxShadow"
     }
   },
-  "font-roboto": {
-    "value": "Roboto",
-    "type": "fontFamilies",
-    "description": "Se utiliza en la app de Claro Pay"
+  "font-family": {
+    "font-roboto": {
+      "value": "Roboto",
+      "type": "fontFamilies",
+      "description": "Se utiliza en la app de Claro Pay"
+    },
+    "font-nunito": {
+      "value": "Nunito",
+      "type": "fontFamilies",
+      "description": "Se utiliza en la web de Claro Pay; también se utiliza en títulos y cantidades dentro de la app de Claro Pay. Adicional se aplica en insumos gráficos"
+    }
   },
-  "font-nunito": {
-    "value": "Nunito",
-    "type": "fontFamilies",
-    "description": "Se utiliza en la web de Claro Pay; también se utiliza en títulos y cantidades dentro de la app de Claro Pay. Adicional se aplica en insumos gráficos"
-  },
-  "fontWeight": {
+  "font-weight": {
     "bold": {
       "value": "Bold",
       "type": "fontWeights"
@@ -324,7 +326,7 @@
       "type": "fontWeights"
     }
   },
-  "fontSize": {
+  "font-size": {
     "1": {
       "value": "10px",
       "type": "fontSizes"
@@ -358,36 +360,38 @@
       "type": "fontSizes"
     }
   },
-  "font-line-height-1": {
-    "value": "18",
-    "type": "lineHeights"
-  },
-  "font-line-height-2": {
-    "value": "20",
-    "type": "lineHeights"
-  },
-  "font-line-height-3": {
-    "value": "22",
-    "type": "lineHeights"
-  },
-  "font-line-height-4": {
-    "value": "24",
-    "type": "lineHeights"
-  },
-  "font-line-height-5": {
-    "value": "26",
-    "type": "lineHeights"
-  },
-  "font-line-height-6": {
-    "value": "28",
-    "type": "lineHeights"
-  },
-  "font-line-height-7": {
-    "value": "32",
-    "type": "lineHeights"
-  },
-  "font-line-height-8": {
-    "value": "36",
-    "type": "lineHeights"
+  "font-line": {
+    "height-1": {
+      "value": "18",
+      "type": "lineHeights"
+    },
+    "height-2": {
+      "value": "20",
+      "type": "lineHeights"
+    },
+    "height-3": {
+      "value": "22",
+      "type": "lineHeights"
+    },
+    "height-4": {
+      "value": "24",
+      "type": "lineHeights"
+    },
+    "height-5": {
+      "value": "26",
+      "type": "lineHeights"
+    },
+    "height-6": {
+      "value": "28",
+      "type": "lineHeights"
+    },
+    "height-7": {
+      "value": "32",
+      "type": "lineHeights"
+    },
+    "height-8": {
+      "value": "36",
+      "type": "lineHeights"
+    }
   }
 }
