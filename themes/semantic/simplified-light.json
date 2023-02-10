@@ -77,7 +77,27 @@
           "fontSize": "{font-size.3}"
         },
         "type": "typography",
-        "description": "Acciones con menor prioridad"
+        "description": "Textos de acción con prioridad menor"
+      },
+      "medium": {
+        "value": {
+          "fontFamily": "{font-family.font-roboto}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{font-line.height-4}",
+          "fontSize": "{font-size.4}"
+        },
+        "type": "typography",
+        "description": "Textos de acción con prioridad mediana"
+      },
+      "large": {
+        "value": {
+          "fontFamily": "{font-family.font-roboto}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{font-line.height-5}",
+          "fontSize": "{font-size.5}"
+        },
+        "type": "typography",
+        "description": "Textos de acción con prioridad alta"
       }
     }
   }

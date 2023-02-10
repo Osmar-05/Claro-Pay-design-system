@@ -137,7 +137,10 @@
       "colors.button.primary.background-active": "S:e4a094abf2c3fd35377be2b50512d4899c2d1c1b,",
       "colors.button.primary.background-hover": "S:4c0461abe8ef4aa62c3f6367701c0da88c114c56,",
       "colors.button.primary.background-disabled": "S:6fc2cab5a08516f76336f1e8dcf0692c446a7f80,",
-      "colors.text.primary-hover": "S:682cf9ec6e54aa4d738350301388f484ca571c32,"
+      "colors.text.primary-hover": "S:59e45af0ad06cfda820c6eb4349c54c6479c9b69,",
+      "typography.action.small": "S:896e3e2c40f750dd23961d12a30550f2d993a7db,",
+      "typography.action.medium": "S:63fa0fce5ec671be0782193f59c7673f398c642a,",
+      "typography.action.large": "S:282ed1e221d267cdc3d8fdb14589d3e7470bec02,"
     }
   }
 ]
