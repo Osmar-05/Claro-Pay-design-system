@@ -1,80 +1,23 @@
 {
-  "colors": {
-    "button": {
-      "primary": {
-        "text-active": {
-          "value": "{colors.text.primary}",
-          "type": "color"
-        },
-        "text-hover": {
-          "value": "{colors.text.primary-hover}",
-          "type": "color"
-        },
-        "text-disabled": {
-          "value": "{colors.text.disabled}",
-          "type": "color"
-        },
-        "background-active": {
-          "value": "{colors.background.primary}",
-          "type": "color"
-        },
-        "background-hover": {
-          "value": "{colors.background.primary-hover}",
-          "type": "color"
-        },
-        "background-disabled": {
-          "value": "{colors.background.disabled}",
+  "button": {
+    "primary": {
+      "active": {
+        "background-color": {
+          "value": "#ffffff",
           "type": "color"
         }
       },
-      "secondary": {
-        "text-active": {
-          "value": "{colors.text.secondary}",
-          "type": "color"
-        },
-        "text-hover": {
-          "value": "{colors.text.secondary-hover}",
-          "type": "color"
-        },
-        "text-disabled": {
-          "value": "{colors.text.disabled}",
-          "type": "color"
-        },
-        "background-default": {
-          "value": "{colors.background.secondary}",
-          "type": "color"
-        },
-        "background-hover": {
-          "value": "{colors.background.secondary-hover}",
-          "type": "color"
-        },
-        "border-active": {
-          "value": "{colors.border.base}",
-          "type": "color"
-        },
-        "border-disabled": {
-          "value": "{colors.border.disabled}",
+      "hover": {
+        "background-color": {
+          "value": "#ffffff",
           "type": "color"
         }
-      }
-    }
-  },
-  "typography": {
-    "button": {
-      "small": {
-        "value": "{typography.action.small}",
-        "type": "typography",
-        "description": "Utilizarlo en un botón con poca relevancia"
       },
-      "medium": {
-        "value": "{typography.action.medium}",
-        "type": "typography",
-        "description": "Utilizarlo en un botón con relevancia media"
-      },
-      "large": {
-        "value": "{typography.action.large}",
-        "type": "typography",
-        "description": "Utilizarlo en un botón con alta relevancia"
+      "disabled": {
+        "background-color": {
+          "value": "#ffffff",
+          "type": "color"
+        }
       }
     }
   }

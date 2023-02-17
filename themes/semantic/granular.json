@@ -1,1 +1,22 @@
-{}
+{
+  "semantic": {
+    "color": {
+      "actions": {
+        "primary": {
+          "active": {
+            "background-color": {
+              "value": "#ffffff",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "background-color": {
+              "value": "#ffffff",
+              "type": "color"
+            }
+          }
+        }
+      }
+    }
+  }
+}

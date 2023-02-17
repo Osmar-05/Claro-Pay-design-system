@@ -1,1 +1,136 @@
-{}
+{
+  "semantic": {
+    "fg": {
+      "default": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "muted": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "on-accent": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "on-disabled": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "bg": {
+      "surface": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "muted": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "canvas": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "cta": {
+      "default": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "emphasised": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "muted": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "primary": {
+      "default": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "emphasised": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "muted": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "default": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "emphasised": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "muted": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "fg": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "emphasised": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "muted": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    }
+  }
+}
