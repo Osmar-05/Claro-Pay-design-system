@@ -3,7 +3,11 @@
     "primary": {
       "active": {
         "background-color": {
-          "value": "#ffffff",
+          "value": "{semantic.color.actions.primary.active.background-color}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.actions.primary.active.text-color}",
           "type": "color"
         }
       },
