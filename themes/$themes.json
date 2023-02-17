@@ -5,7 +5,8 @@
     "selectedTokenSets": {
       "core": "enabled",
       "comp/button": "enabled",
-      "semantic/simplified-light": "enabled"
+      "semantic/granular": "disabled",
+      "semantic/simplified": "enabled"
     },
     "$figmaStyleReferences": {
       "actions.background.hover": "S:567803f39c7525ce7faf99f2f33830aa46cd764f,",
@@ -97,7 +98,6 @@
       "brand.default.white": "S:db7d5cb7d9fb3db54fef88ccaa692efbcc581ad9,",
       "brand.default.black": "S:ede816c8bad32d8d9183a0641c358dd70f8bf032,",
       "brand.blueDark.25": "S:f68ea1dac6cfc0324883b8dee641dc12d8f7c9f1,",
-      "brand.blueDark.100": "S:8344880ed366b74ff7920ba8d92597acf081e563,",
       "brand.blueDark.500": "S:dfadf5891a62399e558a6d8952248bb5933d7d40,",
       "brand.blueDark.900": "S:57a994c05f13b97e4af58273cd8825371a8db9da,",
       "brand.gray.25": "S:1c23b48d3e601b238b07c990355fa2f03fe6d2c5,",
@@ -143,7 +143,8 @@
       "typography.button.medium": "S:3c02ca0dff11c56b38b5f5661e6f0ffbe6153596,",
       "typography.button.large": "S:f674c4772c017a5baa0cbae76b530bc527032efe,",
       "colors.border.base": "S:7c74897d8d2f66031e943d227425829b3af9b1b2,",
-      "colors.border.primary": "S:9a3a3b7e9373e41d8ca9dc98132476f3a8b095a1,"
+      "colors.border.primary": "S:9a3a3b7e9373e41d8ca9dc98132476f3a8b095a1,",
+      "brand.blueDark.50": "S:8344880ed366b74ff7920ba8d92597acf081e563,"
     }
   }
 ]

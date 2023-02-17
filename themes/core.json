@@ -17,12 +17,20 @@
         "value": "#F6F7F8",
         "type": "color"
       },
-      "100": {
-        "value": "#CAD0D3",
+      "50": {
+        "value": "#DCE0E2",
+        "type": "color"
+      },
+      "250": {
+        "value": "#96A1A7",
         "type": "color"
       },
       "500": {
         "value": "#50626C",
+        "type": "color"
+      },
+      "750": {
+        "value": "#303B41",
         "type": "color"
       },
       "900": {
@@ -45,6 +53,10 @@
       },
       "500": {
         "value": "#323232",
+        "type": "color"
+      },
+      "750": {
+        "value": "#1e1e1e",
         "type": "color"
       },
       "900": {
