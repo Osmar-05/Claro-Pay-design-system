@@ -7,9 +7,19 @@
             "background-color": {
               "value": "#ffffff",
               "type": "color"
+            },
+            "text-color": {
+              "value": "#ffffff",
+              "type": "color"
             }
           },
           "hover": {
+            "background-color": {
+              "value": "#ffffff",
+              "type": "color"
+            }
+          },
+          "disabled": {
             "background-color": {
               "value": "#ffffff",
               "type": "color"
