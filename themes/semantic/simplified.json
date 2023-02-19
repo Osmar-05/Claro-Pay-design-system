@@ -2,15 +2,15 @@
   "semantic": {
     "fg": {
       "default": {
-        "value": "#ffffff",
+        "value": "{color.default.black}",
         "type": "color"
       },
       "muted": {
-        "value": "#ffffff",
+        "value": "{color.gray.250}",
         "type": "color"
       },
       "subtle": {
-        "value": "#ffffff",
+        "value": "{color.blueDark.500}",
         "type": "color"
       },
       "on-accent": {
@@ -18,11 +18,15 @@
         "type": "color"
       },
       "on-disabled": {
-        "value": "#ffffff",
+        "value": "{color.default.white}",
         "type": "color"
       },
       "disabled": {
-        "value": "#ffffff",
+        "value": "{color.gray.50}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{color.authenticRed.500}",
         "type": "color"
       }
     },
@@ -32,11 +36,11 @@
         "type": "color"
       },
       "muted": {
-        "value": "#ffffff",
+        "value": "{color.gray.50}",
         "type": "color"
       },
       "subtle": {
-        "value": "#ffffff",
+        "value": "{color.gray.25}",
         "type": "color"
       },
       "canvas": {
@@ -46,67 +50,133 @@
     },
     "primary": {
       "default": {
-        "value": "{color.default.black}",
+        "value": "{color.gray.750}",
         "type": "color"
       },
       "emphasised": {
-        "value": "#ffffff",
+        "value": "{color.gray.500}",
         "type": "color"
       },
       "muted": {
-        "value": "#ffffff",
+        "value": "{color.gray.50}",
         "type": "color"
       },
       "subtle": {
-        "value": "#ffffff",
+        "value": "{color.gray.250}",
         "type": "color"
       },
       "disabled": {
-        "value": "#ffffff",
+        "value": "{color.gray.25}",
         "type": "color"
       }
     },
     "secondary": {
       "default": {
-        "value": "#ffffff",
+        "value": "{color.blue.500}",
         "type": "color"
       },
       "emphasised": {
-        "value": "#ffffff",
+        "value": "{color.blue.600}",
         "type": "color"
       },
       "muted": {
-        "value": "#ffffff",
+        "value": "{color.blue.250}",
         "type": "color"
       },
       "subtle": {
-        "value": "#ffffff",
+        "value": "{color.blue.50}",
         "type": "color"
       },
       "disabled": {
-        "value": "#ffffff",
+        "value": "{color.blue.25}",
         "type": "color"
       }
     },
     "warning": {
       "fg": {
-        "value": "#ffffff",
+        "value": "{color.yellow.500}",
         "type": "color"
       },
       "emphasised": {
-        "value": "#ffffff",
+        "value": "{color.yellow.600}",
         "type": "color"
       },
       "muted": {
-        "value": "#ffffff",
+        "value": "{color.yellow.250}",
         "type": "color"
       },
       "subtle": {
-        "value": "#ffffff",
+        "value": "{color.yellow.50}",
         "type": "color"
       },
       "disabled": {
-        "value": "#ffffff",
+        "value": "{color.yellow.25}",
+        "type": "color"
+      }
+    },
+    "danger": {
+      "fg": {
+        "value": "{color.red.500}",
+        "type": "color"
+      },
+      "emphasised": {
+        "value": "{color.red.600}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.red.250}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{color.red.50}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.red.25}",
+        "type": "color"
+      }
+    },
+    "brand": {
+      "fg": {
+        "value": "{color.authenticRed.500}",
+        "type": "color"
+      },
+      "emphasised": {
+        "value": "{color.authenticRed.750}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.authenticRed.250}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{color.authenticRed.50}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.authenticRed.25}",
+        "type": "color"
+      }
+    },
+    "positive": {
+      "fg": {
+        "value": "{color.green.500}",
+        "type": "color"
+      },
+      "emphasised": {
+        "value": "{color.green.650}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.green.250}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{color.green.50}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.green.25}",
         "type": "color"
       }
     }
