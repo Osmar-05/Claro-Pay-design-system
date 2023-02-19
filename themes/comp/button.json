@@ -9,17 +9,37 @@
         "text-color": {
           "value": "{semantic.color.actions.primary.active.text-color}",
           "type": "color"
-        }
-      },
-      "hover": {
-        "background-color": {
-          "value": "#ffffff",
+        },
+        "border-color": {
+          "value": "{semantic.color.actions.primary.active.border-color}",
           "type": "color"
         }
       },
       "disabled": {
         "background-color": {
-          "value": "#ffffff",
+          "value": "{semantic.color.actions.primary.disabled.background-color}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.actions.primary.disabled.text-color}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.actions.primary.disabled.border-color}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "background-color": {
+          "value": "{semantic.color.actions.primary.hover.background-color}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.actions.primary.hover.text-color}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.actions.primary.hover.text-color}",
           "type": "color"
         }
       }

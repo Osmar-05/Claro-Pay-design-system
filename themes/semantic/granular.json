@@ -11,17 +11,81 @@
             "text-color": {
               "value": "{semantic.fg.on-accent}",
               "type": "color"
+            },
+            "border-color": {
+              "value": "{semantic.border.on-accent}",
+              "type": "color"
             }
           },
           "hover": {
             "background-color": {
-              "value": "#ffffff",
+              "value": "{semantic.primary.emphasised}",
+              "type": "color"
+            },
+            "text-color": {
+              "value": "{semantic.fg.on-accent}",
+              "type": "color"
+            },
+            "border-color": {
+              "value": "{semantic.border.on-accent}",
               "type": "color"
             }
           },
           "disabled": {
             "background-color": {
-              "value": "#ffffff",
+              "value": "{semantic.primary.muted}",
+              "type": "color"
+            },
+            "text-color": {
+              "value": "{semantic.fg.muted}",
+              "type": "color"
+            },
+            "border-color": {
+              "value": "{semantic.border.muted}",
+              "type": "color"
+            }
+          }
+        },
+        "secondary": {
+          "active": {
+            "background-color": {
+              "value": "{semantic.primary.default}",
+              "type": "color"
+            },
+            "text-color": {
+              "value": "{semantic.fg.on-accent}",
+              "type": "color"
+            },
+            "border-color": {
+              "value": "{semantic.border.on-accent}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "background-color": {
+              "value": "{semantic.primary.emphasised}",
+              "type": "color"
+            },
+            "text-color": {
+              "value": "{semantic.fg.on-accent}",
+              "type": "color"
+            },
+            "border-color": {
+              "value": "{semantic.border.on-accent}",
+              "type": "color"
+            }
+          },
+          "disabled": {
+            "background-color": {
+              "value": "{semantic.primary.muted}",
+              "type": "color"
+            },
+            "text-color": {
+              "value": "{semantic.fg.muted}",
+              "type": "color"
+            },
+            "border-color": {
+              "value": "{semantic.border.muted}",
               "type": "color"
             }
           }
